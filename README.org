@@ -1,0 +1,13 @@
+* On Strings at Work
+Emacsを利用した日々の仕事の業務改善DXストーリー
+
+- [[https://github.com/askdkc/on-strings-at-work/blob/main/on-strings-at-work.epub][Epub形式になってますのでダウンロードして読んでください]]
+- 本文は [[./on-strings-at-work.md][on-strings-at-work.md]] というMarkDownファイルにしてあります
+
+#+CAPTION: おっさんエンジニアとEmacs
+#+ATTR_HTML: :width 300px :style max-width:300px;
+[[./thum-osaw.png]]
+
+** OpenAIのChatGPT 5.5で作成
+
+本文生成はAIに任せました
